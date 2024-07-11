@@ -27,9 +27,9 @@ This project is a comprehensive HR management system developed using HTML, CSS, 
   - Feedback System: Submit feedback stored in local storage.
 
 * About Page:
- - Overview of the site and team members.
+  - Overview of the site and team members.
 * Contact Us Page:
- - Contact information and feedback form stored locally and accessible by HR.
+  - Contact information and feedback form stored locally and accessible by HR.
 
 ## Technical Requirements
 * HTML & CSS: Semantic HTML5 and modern CSS3 techniques.
